@@ -8,7 +8,6 @@ namespace Delta
         {
             try
             {
-
                 Console.WriteLine("b: ");
                 int b = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("a: ");
